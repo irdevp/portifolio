@@ -1,11 +1,11 @@
 {
-    "name": "sputbit",
-    "short_name": "sputbit",
+    "name": "Igor Melo",
+    "short_name": "Igor Melo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Portifólio.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
