@@ -1,0 +1,13 @@
+  {
+    "cooper":"Exemplo de animação que fiz, em um projeto grande que por enquanto não posso revelar o nome :(",
+    "dr_alper": "Responsavel pelo desenvolvimento da grande maioria do projeto, inclusive funções centrais, como chamada de vídeo e questionário dinâmico",
+    "brisacliente": "Desenvolvido PushNotification e toda jornada inicial do usuário",
+    "solo_projects":"Projetos em que atuei sozinho na parte de codificação e design",
+    "team_projects": "Alguns dos projetos grandes que atuei",
+    "personal_projetcs" : "Projetos pessoais em andamento",
+    "made": "Feito em Flutter",
+    "dev_time": "Desenvolvedor Flutter Pleno",
+    "est": "Aplicativo destinado a técnicos em campo, conta com vários serviços dentre eles sistema de login, transferência de itens, criar, visualizar, aceite ou recusa de transferência.",
+    "vitalise": "Aplicativo de delivery de equipamentos, com atalho para abertura no maps pelo endereço, atualização do ticket e sistema de login local.",
+    "matchtour":  "Aplicativo de projeto de startup, possuía upload de fotos, sistema de login e cadastro." 
+  }

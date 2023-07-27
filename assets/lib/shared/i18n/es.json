@@ -1,0 +1,13 @@
+{
+    "cooper":"Ejemplo de animación que hice, en un gran proyecto del cual no puedo revelar el nombre por ahora :(",
+    "dr_alper": "Responsable del desarrollo de la gran mayoría del proyecto, incluidas funciones básicas como videollamadas y cuestionarios dinámicos",
+    "brisacliente": "Desarrollado PushNotification y todo el recorrido inicial del usuario",
+    "solo_projects":"Proyectos en los que trabajé solo en programación y diseño",
+    "team_projects": "Algunos de los grandes proyectos en los que trabajé",
+    "personal_projetcs" : "Proyectos personales en curso",
+    "made": "Hecho en Flutter",
+    "dev_time": "Desarrollador Flutter de nivel medio",
+    "est": "Aplicación destinada a los técnicos en el campo, cuenta con varios servicios, incluido el sistema de inicio de sesión, la transferencia de elementos, crear, ver, aceptar o rechazar la transferencia.",
+    "vitalise": "Aplicación de entrega de equipos, con acceso directo para abrir mapas por dirección, actualización de tickets y sistema de inicio de sesión local.",
+    "matchtour": "Aplicación de proyecto de inicio, con carga de fotos, sistema de inicio de sesión y registro"
+  }

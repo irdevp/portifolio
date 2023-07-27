@@ -1,0 +1,13 @@
+{
+    "cooper": "Example of animation I made, in a big project that for now I can't reveal the name :(",
+    "dr_alper": "Responsible for the development of the vast majority of the project, including core functions such as video calling and dynamic quiz",
+    "brisacliente": "Developed Push Notification and all initial user journey",
+    "solo_projects":"Projects where I worked alone in coding and design",
+    "team_projects": "Some of the big projects I worked on",
+    "personal_projetcs" : "Ongoing personal projects",
+    "made": "Made in Flutter",
+    "dev_time": "Flutter Developer Mid Level",
+    "est": "Application intended for technicians in the field, it has several services including login system, item transfer, create, view, accept or refuse transfer.",
+    "vitalise": "Equipment delivery application, with shortcut to open maps by address, ticket update and local login system.",
+    "matchtour": "Startup project application, with photo upload, login and registration system."
+  }

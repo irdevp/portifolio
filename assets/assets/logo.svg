@@ -1,0 +1,14 @@
+<svg width="195" height="195" viewBox="0 0 195 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_13_119)">
+<line x1="135.435" y1="69.0576" x2="48.1495" y2="23.4473" stroke="white" stroke-width="7" stroke-linecap="round"/>
+<line x1="89.8594" y1="84.9339" x2="46.2586" y2="64.1423" stroke="white" stroke-width="7" stroke-linecap="round"/>
+<line x1="3.5" y1="-3.5" x2="104.5" y2="-3.5" transform="matrix(-0.967441 -0.253095 -0.253095 0.967441 111.214 154.933)" stroke="white" stroke-width="7" stroke-linecap="round"/>
+<line x1="101.685" y1="120.262" x2="33.6498" y2="100.463" stroke="white" stroke-width="7" stroke-linecap="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M161.489 124.286C154.123 144.523 131.747 154.957 111.51 147.591C96.1639 142.006 86.4549 127.788 85.8703 112.418L78.8462 110.219C78.5426 129.276 90.1978 147.284 109.116 154.169C132.986 162.857 159.379 150.55 168.067 126.68C176.754 102.81 164.447 76.4172 140.577 67.7293C116.708 59.0415 90.3146 71.3488 81.6267 95.2185C80.5641 98.1379 79.8156 101.095 79.3639 104.053L86.0982 106.504C86.4419 103.53 87.1359 100.549 88.2046 97.6126C95.5702 77.3758 117.946 66.9415 138.183 74.3072C158.42 81.6728 168.854 104.049 161.489 124.286Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_13_119">
+<rect width="195" height="195" fill="white"/>
+</clipPath>
+</defs>
+</svg>
